@@ -1,4 +1,4 @@
-#Réplica do layout Stack Overflow
+# Réplica do layout Stack Overflow
 ## Do que se trata?
 Desafio prático proposto no Bootcamp Desenvolvedor Front-End da IGTI.
 ## Objetivo
